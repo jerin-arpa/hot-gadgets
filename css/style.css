@@ -1,0 +1,102 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+.icarousel{
+    display: flex;
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 110px;
+}
+.icar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 80px;
+}
+.n1{
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   padding-top: 30px;
+   padding-bottom: 10px;
+}
+.n2{
+    justify-content: center;
+    text-align: center;
+    width: 87%;
+    padding-left: 40px;
+}
+.n5{
+    justify-content: center;
+    text-align: center;
+    width: 87%;
+}
+.n3{
+    margin-top: 0px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.n4{
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px rgb(214, 213, 213);
+}
+.n6{
+    display: flex;
+    padding-left: 90px;
+    margin-top: 80px;
+    justify-content: space-between;
+}
+.n7{
+    display: flex;
+}
+.n8{
+    display: flex;
+}
+.n9{
+    padding-right: 70px;
+}
+.n10{
+    padding: 50px;
+    margin-bottom: 40px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 30px;
+    box-shadow: 3px 3px 3px 3px rgb(214, 213, 213);
+}
+.n11{
+   border-bottom-left-radius: 30px;
+   border-top-right-radius: 15px;
+   padding: 50px;
+   margin-top: 150px;
+   margin-left: 100px;
+   box-shadow: 3px 3px 3px 3px rgb(214, 213, 213);
+}
+.n12{
+    height: 550px; 
+    width: 650px;
+    padding-left: 80px;
+}
+.n13{
+    text-align: center;
+    margin-top: 90px;
+    margin-bottom: 40px;
+}
+.n14{
+    padding: 100px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 3px 3px 3px 3px rgb(214, 213, 213);
+}
+.n15{
+    padding-bottom: 10px;
+}
+.footer{
+    text-align: center;
+    font-size: 13px;
+    padding-bottom: 15px;
+    padding-top: 30px;
+}
